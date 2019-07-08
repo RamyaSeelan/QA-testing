@@ -1,0 +1,3 @@
+Download the Appium Software version 1.12.0
+Set up Java path as JAVA_HOME under system variable and sdk path as ANDROID_HOME under user variable 
+After step (2) is done , go back to appium and under the desired capabilities , you can add the app's apk , deviceName , platformName and the appWaitActivity . 
